@@ -1,4 +1,4 @@
 # ICS3U
 School Projects
 
-These are my school projects done using Java. 
+This is a backup for my school projects done using Java. 
